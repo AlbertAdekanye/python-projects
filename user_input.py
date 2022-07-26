@@ -1,0 +1,5 @@
+Name = input ("Enter your name: ")
+Department = input ("Enter your Department: ")
+Sex = input ("Enter your Sex: ")
+print(f" Helle {Name} {Department} {Sex} ")
+print("You are welcome to federal University of oye_ekiti")
